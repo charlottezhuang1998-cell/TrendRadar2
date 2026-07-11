@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:48:58.369699+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-07-11T23:51:50.476014+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时09分 ~ 22时48分]"
+          "appearance_count": 11,
+          "time_info": "[14时09分 ~ 23时51分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -41,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时09分 ~ 22时48分]"
+          "appearance_count": 11,
+          "time_info": "[14时09分 ~ 23时51分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -329,8 +330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时59分 ~ 22时48分]"
+          "appearance_count": 16,
+          "time_info": "[06时59分 ~ 23时51分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -343,6 +344,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 08时02分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 23时51分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -388,21 +402,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时01分 ~ 22时48分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时44分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[08时01分 ~ 23时51分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -416,8 +417,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 22时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时52分 ~ 23时51分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
