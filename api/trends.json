@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T20:24:03.401373+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-07-24T22:51:37.566261+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时04分 ~ 20时24分]"
+          "appearance_count": 10,
+          "time_info": "[06时04分 ~ 22时51分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时22分 ~ 20时24分]"
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 22时51分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -243,7 +243,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -254,9 +254,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "美股纳指低开0.1% 英特尔小幅高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%800.1%25+%E8%8B%B1%E7%89%B9%E5%B0%94%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "斯伦贝谢第二季度营收89.7亿美元，预期86.9亿美元。 第二季度调整后每股收益55美分，预期51美分。 第二季度调整后EBITDA为19.0亿美元，预期17.8亿美元。 第二季度资本支出4.59亿美元，预期4.88亿美元。 斯伦贝谢美股盘前涨2.5%。",
@@ -265,7 +276,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -279,6 +290,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超1%，网络股指数ETF涨近1%，半导体ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3139499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美股盘初：道指涨0.2%，存储芯片股普跌，英特尔跌约1%，Amkor涨约6%",
+          "url": "https://wallstreetcn.com/livenews/3139496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -295,8 +328,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 22时51分]"
+        },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
@@ -312,17 +356,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[03时07分 ~ 20时24分]"
-        },
-        {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时22分 ~ 20时24分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -357,11 +390,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时46分 ~ 20时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 22时51分]"
         },
         {
           "title": "根据美国国防部伤亡分析系统的数据，五角大楼在一天之内将伊朗战争的官方死亡人数从18人下调至14人。《纽约时报》称，其中一个原因是，他们的死亡发生在特朗普4月份宣布停火之后。",
@@ -407,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "以总理办公室：内塔尼亚胡将访美 与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20260724223621938800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美国总统特朗普：如果我们不对伊朗采取行动，就没有人会采取行动。",
@@ -476,6 +521,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
           "url": "https://flash.jin10.com/detail/20260724025035550800",
           "source": "金十数据",
@@ -526,7 +582,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -553,6 +609,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周二在白宫会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260724221517947800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "【外交部：愿在人工智能领域落实好中美元首重要共识】就有报道称美国总统特朗普表示美中两国领导人将讨论人工智能相关议题，外交部发言人林剑24日在例行记者会上答问时表示，元首外交对中美关系具有不可替代的战略引领作用。中方愿同美方一道，在人工智能领域落实好两国元首的重要共识。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3139307",
           "source": "华尔街见闻-快讯",
@@ -562,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周一应美国总统特朗普邀请访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260724221512312800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
@@ -590,8 +668,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 22时51分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时24分]"
+          "time_info": "[19时01分 ~ 22时51分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -604,18 +695,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时46分 ~ 16时18分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 20时24分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -845,6 +924,46 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
+          "url": "https://wallstreetcn.com/livenews/3139047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时04分]"
+        },
+        {
+          "title": "美元指数23日上涨",
+          "url": "https://flash.jin10.com/detail/20260724040944825800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约1.8%，报88.69美元，有望脱离6月26日以来最低位87.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3139505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
@@ -871,35 +990,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
-          "url": "https://wallstreetcn.com/livenews/3139047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时04分]"
-        },
-        {
-          "title": "美元指数23日上涨",
-          "url": "https://flash.jin10.com/detail/20260724040944825800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         }
       ]
     }
