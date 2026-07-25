@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T07:59:58.262364+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-07-25T10:56:39.149165+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 39,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -32,6 +32,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://wallstreetcn.com/livenews/3139705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "特朗普称美国与伊朗仍在对话",
           "url": "https://wallstreetcn.com/livenews/3139662",
           "source": "华尔街见闻-快讯",
@@ -56,6 +67,28 @@
           "time_info": "[04时17分 ~ 06时09分]"
         },
         {
+          "title": "美国总统特朗普：我打算送给美国参议院少数党领袖舒默一套漂亮的巴​​勒斯坦服装，这样当以色列总理内塔尼亚胡下周来访时，他就能穿上这身行头去迎接对方了——当然，还有那位（纽约）市长，我相信他也一定很想见见内塔尼亚胡。他们对待内塔尼亚胡的态度可不太好。",
+          "url": "https://flash.jin10.com/detail/20260725103229350800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3139702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "美国小企业提起诉讼，质疑特朗普新的“强迫劳动”关税措施。诉讼称，相关关税授权需要提供更详细的、针对具体国家的调查结论，才能在法律上成立。",
           "url": "https://flash.jin10.com/detail/20260725020246817800",
           "source": "金十数据",
@@ -76,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260725102400999800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
@@ -155,6 +199,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "美国总统特朗普：尽管你看到了一些情况，但伊朗剩下的无人机其实寥寥无几。他们偶尔会搞些动作，但实际上已所剩无几。",
+          "url": "https://flash.jin10.com/detail/20260725101202111800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "美国总统特朗普：（关于沙特核协议）如果沙特阿拉伯不加入（亚伯拉罕）协议，就不会达成核协议。",
           "url": "https://flash.jin10.com/detail/20260725034924875800",
           "source": "金十数据",
@@ -166,6 +221,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "美国总统特朗普：伊朗局势进展非常顺利。不要相信假新闻。",
+          "url": "https://flash.jin10.com/detail/20260725101107906800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
           "url": "https://wallstreetcn.com/livenews/3139589",
           "source": "华尔街见闻-快讯",
@@ -175,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗方面目前正与我们保持联系，但我认为他们尚未准备好达成协议。",
+          "url": "https://flash.jin10.com/detail/20260725101005763800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "美国总统特朗普谈与沙特的核协议：他们必须加入亚伯拉罕协议。",
@@ -199,6 +276,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "美国总统特朗普：将出席明年的白宫新闻晚宴。",
+          "url": "https://flash.jin10.com/detail/20260725100539518800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "美国总统特朗普：现在正在与伊朗人交谈，我认为他们变得更加认真了。",
           "url": "https://flash.jin10.com/detail/20260725034410603800",
           "source": "金十数据",
@@ -208,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "特朗普暂停“废除H-1B签证费用命令”的上诉请求被驳回",
+          "url": "https://wallstreetcn.com/livenews/3139683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "美国总统特朗普：美国国务卿鲁比奥与副总统万斯谈论了伊朗问题。",
@@ -232,6 +331,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "特朗普嘲笑美联储总部翻新工程造价过高",
+          "url": "https://flash.jin10.com/detail/20260725095832847800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "据白宫官员透露，乌克兰总统泽连斯基将于下周初与美国总统特朗普会面。",
           "url": "https://wallstreetcn.com/livenews/3139581",
           "source": "华尔街见闻-快讯",
@@ -254,6 +364,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "一周热榜精选：美伊对抗下双海峡告急！特朗普再挥关税大棒",
+          "url": "https://flash.jin10.com/detail/20260725095254129800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "美国总统特朗普：因为（山火产生的）烟雾问题，将对加拿大征收高额关税。",
           "url": "https://flash.jin10.com/detail/20260725034022999800",
           "source": "金十数据",
@@ -263,6 +384,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "美国总统特朗普：我敢说，这里聚集了有史以来最大规模的一群患有“特朗普精神错乱综合征”的人。",
+          "url": "https://flash.jin10.com/detail/20260725094945934800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "报道：特朗普的电力“智囊”在力推电网重大改革后即将离任",
+          "url": "https://wallstreetcn.com/livenews/3139677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
@@ -285,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "美国企业致信特朗普反对限制中国模型",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E8%87%B4%E4%BF%A1%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%AF%B9%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         }
       ]
     },
@@ -322,9 +476,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 10时56分]"
         },
         {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
@@ -344,7 +498,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -360,6 +514,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 07时59分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 10时56分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
@@ -387,6 +553,18 @@
           "time_info": "[04时17分 ~ 07时59分]"
         },
         {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 10时56分]"
+        },
+        {
           "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260725041219645800",
           "source": "金十数据",
@@ -397,28 +575,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时59分]"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
@@ -460,7 +616,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -478,8 +634,91 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "AWS：Claude Opus在包括美国东部（北弗吉尼亚）、亚太地区（墨尔本）、欧洲（爱尔兰）、欧洲（斯德哥尔摩）等地区上线。",
+          "url": "https://flash.jin10.com/detail/20260725020559389800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "AWS宣布在Amazon Bedrock和AWS上接入Claude Opus 5。",
+          "url": "https://flash.jin10.com/detail/20260725020352112800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "Claude Opus 5发布",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%205%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
+          "url": "https://flash.jin10.com/detail/20260725013909944800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "Claude Opus 5震撼发布",
+          "url": "https://www.baidu.com/s?wd=Claude+Opus+5%E9%9C%87%E6%92%BC%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "Claude：Opus5在网络安全任务上比Opus 4.8更强。但在开发漏洞方面，仍然远远落后于Mythos 5。它的安全措施旨在帮助开发者识别和修复软件漏洞，同时阻止高风险使用。",
+          "url": "https://flash.jin10.com/detail/20260725012237191800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "Claude：根据我们的自动化行为审计结果，Opus 5 是迄今为止我们安全对齐程度最高的模型。与我们的其他模型相比，它表现出最低的鲁莽或欺骗性行为发生率，并且在遵循 Claude 宪章（Claude’s Constitution）方面表现最为出色。",
+          "url": "https://flash.jin10.com/detail/20260725012046469800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -487,11 +726,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 10时56分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -504,6 +744,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时47分 ~ 02时16分]"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
@@ -537,67 +788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AWS：Claude Opus在包括美国东部（北弗吉尼亚）、亚太地区（墨尔本）、欧洲（爱尔兰）、欧洲（斯德哥尔摩）等地区上线。",
-          "url": "https://flash.jin10.com/detail/20260725020559389800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "AWS宣布在Amazon Bedrock和AWS上接入Claude Opus 5。",
-          "url": "https://flash.jin10.com/detail/20260725020352112800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
-          "url": "https://flash.jin10.com/detail/20260725013909944800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Claude：Opus5在网络安全任务上比Opus 4.8更强。但在开发漏洞方面，仍然远远落后于Mythos 5。它的安全措施旨在帮助开发者识别和修复软件漏洞，同时阻止高风险使用。",
-          "url": "https://flash.jin10.com/detail/20260725012237191800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Claude：根据我们的自动化行为审计结果，Opus 5 是迄今为止我们安全对齐程度最高的模型。与我们的其他模型相比，它表现出最低的鲁莽或欺骗性行为发生率，并且在遵循 Claude 宪章（Claude’s Constitution）方面表现最为出色。",
-          "url": "https://flash.jin10.com/detail/20260725012046469800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
         }
       ]
     },
