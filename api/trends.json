@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T19:18:16.014630+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-08-06T21:56:16.868873+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -397,7 +397,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -440,6 +440,17 @@
           "time_info": "[06时54分 ~ 13时57分]"
         },
         {
+          "title": "美股盘初纳指跌0.3%，存储芯片股集体大跌",
+          "url": "https://wallstreetcn.com/livenews/3146086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
           "url": "https://flash.jin10.com/detail/20260806041105813800",
           "source": "金十数据",
@@ -473,6 +484,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时56分 ~ 16时27分]"
+        },
+        {
+          "title": "美股开盘 存储板块跌幅居前",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98+%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E8%B7%8C%E5%B9%85%E5%B1%85%E5%89%8D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "美股开盘，道指涨0.14%，标普500指数接近平盘，纳指跌0.3%。存储板块承压，闪迪(SNDK.O)跌13%，西部数据(WDC.O)跌19%，SK海力士(SKHY.O)跌7.8%。移动广告平台巨头AppLovin(APP.O)跌17.8%，二季度营收不及预期。",
+          "url": "https://flash.jin10.com/detail/20260806213036346800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -525,7 +558,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -539,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3146073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美股期货走低，纳斯达克100指数期货下跌0.4%。",
@@ -585,6 +629,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-06）",
+          "url": "https://flash.jin10.com/detail/20260806210554262800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "美股存储板块盘前集体走低，闪迪(SNDK.O)跌超8%，公司业绩指引不佳。西部数据(WDC.O)跌12%，SK海力士(SKHY.O)跌6%。",
           "url": "https://flash.jin10.com/detail/20260806160328237800",
           "source": "金十数据",
@@ -621,7 +676,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -633,8 +688,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时56分 ~ 21时56分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时56分 ~ 21时56分]"
         },
         {
           "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
@@ -662,6 +731,17 @@
           "time_info": "[13时56分 ~ 19时18分]"
         },
         {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
           "title": "DeepSeek拟调高API价格",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
@@ -686,29 +766,17 @@
           "time_info": "[13时56分 ~ 13时57分]"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 19时18分]"
-        },
-        {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 21时56分]"
         },
         {
           "title": "DeepSeek计划大幅涨价",
@@ -747,7 +815,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
@@ -760,6 +828,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时24分]"
+        },
+        {
+          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
+          "url": "https://www.zhihu.com/question/2068498722300990537",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "谷歌将在华盛顿地区裁员52人，于2026年9月6日生效。",
@@ -831,7 +910,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -859,6 +938,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时56分]"
+        },
+        {
+          "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
+          "url": "https://www.zhihu.com/question/2068662948407546390",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
