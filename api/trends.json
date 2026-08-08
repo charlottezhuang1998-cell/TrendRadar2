@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-08T13:40:00.160683+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-08-08T14:43:32.488155+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 14时43分]"
+        },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
@@ -31,20 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时49分 ~ 13时40分]"
-        },
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[03时49分 ~ 14时43分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -55,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 14时43分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -79,6 +79,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时43分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -188,18 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -342,6 +343,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
           "url": "https://flash.jin10.com/detail/20260807234317790800",
           "source": "金十数据",
@@ -479,8 +491,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 13时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 14时43分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -503,8 +515,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时30分 ~ 13时40分]"
+          "appearance_count": 9,
+          "time_info": "[06时30分 ~ 14时43分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -516,6 +528,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 03时50分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 14时43分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -545,18 +570,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时49分 ~ 07时30分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时40分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -637,8 +650,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时49分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[03时49分 ~ 14时43分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -660,8 +673,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 14时43分]"
         }
       ]
     },
@@ -677,11 +690,12 @@
             1,
             8,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时43分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -725,8 +739,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 13时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 14时43分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
